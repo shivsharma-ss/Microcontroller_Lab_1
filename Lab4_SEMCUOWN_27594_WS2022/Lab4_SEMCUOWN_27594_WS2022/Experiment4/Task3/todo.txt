@@ -1,0 +1,9 @@
+This is a complete listing 12.4 of the program 
+"Address of the EEPROM module".
+
+To be amended according to the task 3.
+
+Hint 1: Add another check for the known address of teh RTC module: D0.
+Hint 2: Simply show D0 in one of the LCD lines in case of connected RTC module.
+
+Do not forget to add the photograph!!!
